@@ -6,3 +6,4 @@
 * MIT notebook: [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/mit-notebook.pdf)
 * Stanford University notebook: [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/stanford-notebook.pdf)
 * kactl university notebook: [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/kactl-notebook.pdf)
+* Beheshti University notebook: [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/beheshti-notebook.pdf), [repo](https://github.com/Erfaniaa/icpc-notebook)
