@@ -2,10 +2,10 @@
 
 ### Available for Download
 * Nutella (Hakim Sabzevari - icpc 2023): [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/nutella-notebook.pdf), [docx](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/nutella-notebook.docx)
-* Kolompeh (Sharif University of Technology): [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/kolompeh-notebook.pdf)
+* Kolompeh (Sharif University of Technology): [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/kolompeh-notebook.pdf), [repo](https://github.com/seyedparsa/sharificpc)
 * MIT notebook: [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/mit-notebook.pdf)
-* Stanford University notebook: [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/stanford-notebook.pdf)
-* kactl university notebook: [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/kactl-notebook.pdf)
+* Stanford University notebook: [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/stanford-notebook.pdf), [repo](https://github.com/jaehyunp/stanfordacm)
+* kactl university notebook: [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/kactl-notebook.pdf), [repo](https://github.com/kth-competitive-programming/kactl/)
 * Beheshti University notebook: [pdf](https://github.com/ctrl-alt-Defeat-icpc/notebook/releases/download/dl/beheshti-notebook.pdf), [repo](https://github.com/Erfaniaa/icpc-notebook)
 
 <details><summary><strong>🎈 more detail</strong></summary>
