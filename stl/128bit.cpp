@@ -24,7 +24,6 @@ void print(__int128 x) {
 }
 bool cmp(__int128 x, __int128 y) { return x > y; }
 
-
 int main() {
     __int128 x = read();
     print(x);

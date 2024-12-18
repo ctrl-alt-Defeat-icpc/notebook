@@ -3,11 +3,9 @@
 using namespace std;
 
 const int maxN = 1e5 + 10;
-
 vector <int> adj[maxN];
 bool mark[maxN];
 int color[maxN];
-
 bool bipartite = true;
 
 void DFS(int v, int parent) {
@@ -27,23 +25,19 @@ void DFS(int v, int parent) {
 
 int main() {
     ios_base::sync_with_stdio(0); cin.tie(0);
-
     int n, m; cin >> n >> m;
     for (int i=0; i<m; i++) {
         int u, v; cin >> u >> v;
         adj[u].push_back(v);
         adj[v].push_back(u);
     }
-
     for (int i=1; i<=n; i++) {
         if(mark[i]) continue ;
 
         DFS(i, -1); //root does not have parent.
 
     }
-
     if(bipartite) cout << "Graph Is Bipartite\n";
     else cout << "Graph Is Not Bipartite\n";
-
 }
 

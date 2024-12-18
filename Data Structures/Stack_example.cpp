@@ -17,12 +17,10 @@ int main()
     cout << "Top element after pop: " << s.top() << endl;
 
     // Check if stack is empty
-    if (s.empty())
-    {
+    if (s.empty()) {
         cout << "Stack is empty." << endl;
     }
-    else
-    {
+    else {
         cout << "Stack is not empty." << endl;
     }
 
